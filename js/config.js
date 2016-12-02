@@ -1,1 +1,1 @@
-window.config = {'showControlPanel': false, 'iOSGuide': true, 'showQRCode': false, 'shell': 'iPad', 'background': '#C4C4C4', 'alwaysShowLinks': false, 'hoverShowLinks': false, 'hoverShowRemarks': true, 'showComments': true};
+window.config = {'showControlPanel': false, 'iOSGuide': false, 'showQRCode': false, 'shell': 'iPad', 'background': '#C4C4C4', 'alwaysShowLinks': false, 'hoverShowLinks': false, 'hoverShowRemarks': true, 'showComments': true};
