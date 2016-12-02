@@ -1,0 +1,56 @@
+﻿<project version="2.1" name="vic-pharma mobile" ID="E78044C8-0B00-4A76-BCD9-41558B70C81F" addTime="2016-12-02">
+  <params>
+    <pageParam version="4.2" minAllowVersion="4.1"/>
+    <projectParam version="2.1" minAllowVersion="2.0" platform="MtPad" orientation="MoLandscape" mobileScreenScale="0" mobileType="mmtPad" pageSize="(1024,768)" backgroundColor="4294967295" fontSize="0" fontFamily="" from="FmLocal"/>
+  </params>
+  <modules>
+    <page name="Home" ID="86F41686-E4BB-4129-9BCE-B78CDEF36642" expanded="True" code="GW7AqXRsTE" thumbCode="tFWZMbYpJL" status="psWhite" isLastOpen="True">
+      <images>
+        <image key="F60F743FB4A47C0164A27B766652ECB9.png"/>
+      </images>
+    </page>
+    <page name="Overview" ID="0BA85A7A-FCBF-4D59-809F-C9C9645F3996" expanded="True" code="5uNEFbqjtz" thumbCode="5uNEFbqjtz" status="psWhite">
+      <images>
+        <image key="EBF6095B37B066414256890C2F4EDCCF.png"/>
+      </images>
+    </page>
+    <page name="Prescriptor" ID="14DB9601-E4C1-4A90-9383-617278FA0273" expanded="True" code="YT3Li74K6C" thumbCode="YT3Li74K6C" status="psWhite">
+      <images>
+        <image key="41FE47B53CA69A339AB15549C8FBC855.png"/>
+      </images>
+    </page>
+    <page name="Patient" ID="893D12CD-1129-4F7D-AD30-E505638C8FA4" expanded="True" code="5m6OGe36kS" thumbCode="5m6OGe36kS" status="psWhite">
+      <images>
+        <image key="A7773801A816621C9C94879D810269CD.png"/>
+      </images>
+    </page>
+    <page name="Competitor" ID="D592F2F0-65F1-47A0-BDB6-5AB6BE7340CE" expanded="True" code="3yIlVTVwpl" thumbCode="3yIlVTVwpl" status="psWhite">
+      <images>
+        <image key="455BE7320959F2B1DECFF44E953F99FD.png"/>
+      </images>
+    </page>
+    <page name="Clinical trials" ID="D8516D08-9F1E-4F7C-A662-26E4739568AC" expanded="True" code="3AW9a3eK7a" thumbCode="3AW9a3eK7a" status="psWhite">
+      <images>
+        <image key="5B1B1095DB2998B97BD289BFEA7EF8CF.png"/>
+      </images>
+    </page>
+    <page name="Find a drug" ID="8E92CDB9-E887-4FE2-AAC0-AA553E042AA4" expanded="True" code="XvmFHKOl5T" thumbCode="QAr46z9tuS" status="psWhite">
+      <images>
+        <image key="633F521FFCB176BB02F95E8734C67360.png"/>
+      </images>
+    </page>
+  </modules>
+  <masters/>
+  <images>
+    <image key="F60F743FB4A47C0164A27B766652ECB9.png"/>
+    <image key="EBF6095B37B066414256890C2F4EDCCF.png"/>
+    <image key="41FE47B53CA69A339AB15549C8FBC855.png"/>
+    <image key="A7773801A816621C9C94879D810269CD.png"/>
+    <image key="455BE7320959F2B1DECFF44E953F99FD.png"/>
+    <image key="5B1B1095DB2998B97BD289BFEA7EF8CF.png"/>
+    <image key="633F521FFCB176BB02F95E8734C67360.png"/>
+  </images>
+  <others>
+    <favoriteColors/>
+  </others>
+</project>
